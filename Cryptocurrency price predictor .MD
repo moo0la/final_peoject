@@ -11,7 +11,7 @@ Group Members:
 
 Project: Bitcoin price predictor
 What is your project? Helps predict the next bitcoin price based on previous prices
-Model for price Linear Regression , gxboost , using ML and The data from Binance
+Model for price Linear Regression and GARCH-SARIMAX  , using ML and The data from Binance
 What is required in order to complete your project?
 Goals:
 1. Get Data (4 hrs): Using binance
