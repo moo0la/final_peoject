@@ -8,16 +8,16 @@ Group Members:
 - Turki
 - Thamir 
 
-Project: Stock prediction \
-What is your project?\
-Model for stock price forecast, using ML and The data from www.kaggle.com.\
 
-
-What is required in order to complete your project? \
-Goals:\
-1. Get Stock Data (8 hrs): Using Kaggle
-2. Parse Data (16 hrs): Using Pandas
-3. Format Data (6 hrs): Using Pandas
-
+Project: Bitcoin price predictor
+What is your project? Helps predict the next bitcoin price based on previous prices
+Model for price Linear Regression , gxboost , using ML and The data from Binance
+What is required in order to complete your project?
+Goals:
+1. Get Data (4 hrs): Using binance
+2. Parse Data (6 hrs): Using Pandas
+3. Format Data (6 hrs): Using Pandas
+4. Visualisation (6 hrs)
+5. Repair the presentation (2 hrs)
 Presentation Time Estimate:
 30 minutes + Q/A
